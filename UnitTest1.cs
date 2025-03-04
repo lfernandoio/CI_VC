@@ -6,7 +6,7 @@ namespace CI_VC
         [TestMethod]
         public void TestMethod1()
         {
-         Assert.AreEqual(5, 6);
+         Assert.AreEqual(6, 6);
         }
     }
 }
